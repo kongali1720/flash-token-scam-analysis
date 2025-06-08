@@ -1,6 +1,14 @@
 <h1 align="center">🧠 flash-token-scam-analysis</h1>
 <h3 align="center">🚨 Investigating Crypto Scams That Abuse Fake "Flash USDT/BTC" Claims</h3>
 
+<h2 align="center">🛡️ DIGITAL ANTI-SCAM DEFENDER 2025</h2>
+
+<p align="center">
+  <strong>Issued to:</strong> kongali1720<br/>
+  <strong>By:</strong> GitHub AntiScam Community<br/>
+  <img src="https://img.shields.io/badge/Certified-AntiScam_Defender-ff6600?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Anti--Scam%20Force-ACTIVE-red?style=for-the-badge&logo=skynet" />
   <img src="https://img.shields.io/badge/Crypto%20Fraud%20Hunter-Verified-orange?style=for-the-badge&logo=bitcoin" />
