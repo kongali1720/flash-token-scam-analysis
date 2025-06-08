@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/Crypto%20Fraud%20Hunter-Verified-orange?style=for-the-badge&logo=bitcoin" />
   <img src="https://img.shields.io/badge/Flash%20Token%20Warning-High%20Alert-yellow?style=for-the-badge&logo=tether" />
   <img src="https://img.shields.io/badge/Private%20Keys-Stay%20Safe-green?style=for-the-badge&logo=gnupg" />
+  <img src="https://img.shields.io/badge/Fake%20Wallet%20Detector-ENABLED-critical?style=for-the-badge&logo=ethereum&color=red"/>
+  <img src="https://img.shields.io/badge/Flash%20Scam%20Scanner-100%25-orange?style=for-the-badge&logo=bitcoin&color=orange"/>
+  <img src="https://img.shields.io/badge/Private%20Key%20Stealer-WARNING-black?style=for-the-badge&logo=gnupg&color=black"/>
 </p>
 
 <p align="center">
@@ -13,11 +16,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzlycHo5amE2MjYxNjhhbzhlbDZkNzBsdGJuMjByenJicGp3MjR2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQQhPSaE1pIK9CZJNV/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzlycHo5amE2MjYxNjhhbzhlbDZkNzBsdGJuMjByenJicGp3MjR2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQQhPSaE1pIK9CZJNV/giphy.gif" width="400"/>
 </p>
 
 
 ---
+<h2 align="center">🧠 Scam Behavior in Action</h2>
+<p align="center">
+  <img src="./demo/flash-scam-detection.gif" width="700"/>
+</p>
 
 ## ❗ What is this project?
 
